@@ -4,5 +4,7 @@ ievade():
     return sk1, sk2
 
 aprekini()
-   
+    reizinajums = sk1 * sk2
+    return reizinajums
+
 izvade()
