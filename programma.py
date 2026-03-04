@@ -9,3 +9,7 @@ aprekini(sk1, sk2):
 
 izvade(reizinajums):
     print(f"Jūsu skaitļu reizinājums: {reizinajums}")
+
+sk1, sk2 = ievade()
+rezultats = aprekini(sk1, sk2)
+izvade(rezultats)
