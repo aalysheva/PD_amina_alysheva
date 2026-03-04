@@ -3,8 +3,9 @@ ievade():
     sk2 = int(input("Ievadi otro skaitļu: "))
     return sk1, sk2
 
-aprekini()
+aprekini(sk1, sk2):
     reizinajums = sk1 * sk2
     return reizinajums
 
-izvade()
+izvade(reizinajums):
+    print(f"Jūsu skaitļu reizinājums: {reizinajums}")
