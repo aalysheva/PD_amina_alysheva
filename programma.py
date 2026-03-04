@@ -1,0 +1,5 @@
+ievade()
+
+aprekini()
+
+izvade()
